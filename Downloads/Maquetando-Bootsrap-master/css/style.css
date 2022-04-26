@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+body{
+    background-color: blue;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+
+li {
+    color: whitesmoke;
+}
+
+.nav-item
+{
+    color: white;
+}
+
+li .nav-item
+{
+    color: white;
+}
